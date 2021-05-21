@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 workspace=$(cd $(dirname $0) && pwd -P)
 cd $workspace
 
